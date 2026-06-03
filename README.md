@@ -15,7 +15,7 @@ $ sudo apt install libyaml-dev
 
 To install the package in your `$GERBIL_PATH` (`~/.gerbil` by default):
 ```shell
-$ gerbil pkg install github.com/mighty-gerbils/gerbil-libyaml
+$ gerbil pkg install git.cons.io/mighty-gerbils/gerbil-libyaml
 ```
 
 ## API
